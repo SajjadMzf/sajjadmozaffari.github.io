@@ -1,5 +1,5 @@
 ---
-title: Sajjad Mozaffari
+title: X
 role: Professor of Artificial Intelligence
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
