@@ -31,7 +31,7 @@ social:
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: University of Warwick (Intelligent Vehicle Group at WMG)
+  - name: University of Warwick
     url: https://warwick.ac.uk/fac/sci/wmg/research/cav/
 education:
   courses:
