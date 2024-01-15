@@ -3,10 +3,10 @@ title: Sajjad Mozaffari
 role: Machine Learning/Data Researcher
 bio: My research interests include Deep learning, Intelligent Vehciels, and Computer Vision.
 interests:
-  - Time Series Prediction
   - Deep Learning
   - Intelligent Vehicles
   - Computer Vision
+  - Time Series Prediction
   - Data Analytic
 social:
   - icon: envelope
