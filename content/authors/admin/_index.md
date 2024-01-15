@@ -1,13 +1,13 @@
 ---
 title: Sajjad Mozaffari
-role: Machine Learning Scientist
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+role: Machine Learning/Data Researcher
+bio: My research interests include Deep learning, Intelligent Vehciels, and Computer Vision.
 interests:
   - Time Series Prediction
   - Deep Learning
   - Intelligent Vehicles
   - Computer Vision
+  - Data Analytic
 social:
   - icon: envelope
     icon_pack: fas
@@ -37,7 +37,7 @@ education:
   courses:
     - course: PhD in Machine Learning for Autonomous Driving
       institution: University of Warwick
-      year: 2023 (expected)
+      year: 2023 
     - course: MSc in Electrical and Computer Engineering
       institution: University of Tehran
       year: 2018
@@ -50,8 +50,8 @@ status:
 last_name: Mozaffari
 highlight_name: true
 first_name: Sajjad
-email: ""
+email: "sajjad.mzffr@gmail.com"
 ---
 
-I am a Machine Learning Researcher and PhD Candidate at Intelligent Vehicles Group in WMG, University of Warwick. My PhD is supervised by Prof. Mehrdad Dianati and Prof. Paul Jennings. My research is focused on deep learning techniques for vehicle motion prediction and planning. 
+I am a Machine Learning Researcher at Intelligent Vehicles Group in WMG, University of Warwick. I did my PhD on "Deep learning Techniques for Vehicle Trajectory Prediction" under supervision of Prof. Mehrdad Dianati and Prof. Paul Jennings. My research focused on use of Convolutional neural network and Transformer Networks for time-series prediction. 
 {style="text-align: justify;"}
